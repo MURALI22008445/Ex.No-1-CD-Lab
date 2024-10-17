@@ -2,9 +2,11 @@ Ex. No : 1
 
 IMPLEMENTATION OF SYMBOL TABLE
 
-Register Number : 212223040063
+DEVELOPED BY : MURALI S
 
-Date : 07/10/2024
+Register Number : 212222230088
+
+Date : 24/9/2024
 
 AIM:
 
